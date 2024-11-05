@@ -22,15 +22,6 @@
     gap: 1rem;
 }
 
-.author img{
-        width: 4rem;
-        height: 4rem;
-        border-radius: 50%;
-        border: 4px solid var(--gray-800);
-        outline: 2px solid var(--green-500);
-        margin-bottom: 1rem;
-}
-
 .authorinfo strong{
     display: block;
     color: var(--gray-100);
@@ -89,4 +80,8 @@
     color: var(--white);
     border-radius: 8px;
     cursor: pointer;
+}
+
+.commentList{
+    margin-top: 2rem;
 }
